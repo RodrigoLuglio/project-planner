@@ -1,9 +1,0 @@
-**Project Planner documentation and guides** - we have a folder called `project-planner-docs` that contains the project specification, the defined technical standards, the system architecture, the cli interface design guide, the agent design guide and the implementation plan with all tasks. There is also a sub-folder called `templates-and-guides` that contains important documents like the story template, the technical standards template, the story readiness checklist, the story and the standards documents integration guide and description and some other relevant documents to guide how the output documentation from the Project Planner agents should be formatted. There is also a sub-folder called `frameworks-docs` that contains the latest up to date documentation for the pydantic-ai framework.
-
-1. Implement each task, one by one, without skipping or mixing tasks
-
-2. Before starting the implementation of each task, read the documents in the `project-planner-docs` directory and its subdirectories to gather all the necessary information and context related to the task you are about to implement
-
-3. In case you need any additional information, context or documentation, please, ask for it
-
-4. With all the necessary information and context, start implementing the task
