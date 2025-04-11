@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# MacOS
+.DS_Store
+
+# Project description documents
+project-planner-docs/
+
+# IDE
+.windsurfrules
